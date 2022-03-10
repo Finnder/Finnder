@@ -3,4 +3,6 @@
     Hello my name is Finnegan McGuire, I am currently a student living in the US
 </p>
 
-<h3>[My Website](https://finnder.github.io)</h3>
+<div align="center">
+[My Website](https://finnder.github.io)
+</div>
