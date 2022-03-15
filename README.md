@@ -1,1 +1,1 @@
-<h1 align="center">Yo ✌🏻 My name is Finn</h1>
+<h2 align="center">Yo ✌🏻</h2>
