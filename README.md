@@ -1,9 +1,7 @@
 
 <h2 align="center">Projects Working On</h2>
 
-| Project | Description  | Clone |
+| Project | Description  | Github URL |
 |  :---   |   :----:     |  ---: |
-| League Of Legends Account Inspector  | Inspects account, stats, current game info, and more  |``git clone https://github.com/Finnder/LeagueUIApplication`` |
-|   |   |   |
-|   |   |   |
+| League Of Legends Account Inspector  | Inspects account, stats, current game info, and more  |``https://github.com/Finnder/LeagueUIApplication`` |
 
